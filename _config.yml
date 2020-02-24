@@ -22,10 +22,21 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
+include: ["_pages"]
+
 defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      author_profile: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
     values:
       layout: single
       read_time: true
