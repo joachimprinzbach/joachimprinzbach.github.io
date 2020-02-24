@@ -1,5 +1,6 @@
-title: thetitle
-subtitle: mysubtitle
+title: All things Software
+locale: en_US
+subtitle: CICD, JAVA, WEB, CLOUD
 name: "Joachim Prinzbach"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
