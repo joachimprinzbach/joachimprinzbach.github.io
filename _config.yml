@@ -30,7 +30,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       read_time: true
       comments: true
       author_profile: true
@@ -39,7 +39,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       read_time: true
       comments: true
       author_profile: true
