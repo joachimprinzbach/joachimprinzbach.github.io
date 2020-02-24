@@ -1,9 +1,3 @@
 main:
   - title: About
     url: /about/
-
-  - title: All Posts
-    url: /posts/
-
-  - title: Tags
-    url: /tags/
