@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "default"
 
 defaults:
   # _posts
