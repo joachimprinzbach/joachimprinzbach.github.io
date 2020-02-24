@@ -30,7 +30,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joachimprinzbach.github.io"
 repository: "joachimprinzbach/joachimprinzbach.github.io"
 twitter_username: johaaachim
+twitter:
+  username: "johaaachim"
 github_username:  joachimprinzbach
+search: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
@@ -50,6 +53,7 @@ defaults:
       read_time: true
       comments: true
       author_profile: true
+      related: true
 
 author:
   name     : "Joachim Prinzbach"
@@ -57,18 +61,12 @@ author:
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, USA"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/johaaachim"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/joachimprinzbach"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
