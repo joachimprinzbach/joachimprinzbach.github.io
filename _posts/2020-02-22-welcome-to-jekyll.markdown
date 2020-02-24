@@ -6,8 +6,8 @@ modified:
 categories: microservices
 comments: true
 tags: [microservices, istio, envoy, service mesh, resilience, sidecar, api gateway, solo.io]
-image:
-  feature:
+header:
+  image: /assets/images/yosemite.jpg
 date: 2020-01-23T18:27:37-05:00
 ---
 
