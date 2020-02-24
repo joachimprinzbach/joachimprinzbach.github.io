@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: super itle
+title: super ritle
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -36,6 +36,12 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
+
+author:
+  name     : "Your Name"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
