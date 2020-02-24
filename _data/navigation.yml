@@ -1,10 +1,9 @@
-# Site navigation links
+main:
+  - title: About
+    url: /about/
 
-- title: About
-  url: /about/
+  - title: All Posts
+    url: /posts/
 
-- title: All Posts
-  url: /posts/
-
-- title: Tags
-  url: /tags/
+  - title: Tags
+    url: /tags/
