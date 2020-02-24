@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Do I Need an API Gateway if I Use a Service Mesh?
 modified:
 categories: microservices
