@@ -37,6 +37,14 @@ plugins:
 
 minimal_mistakes_skin: "dark"
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
 author:
   name     : "Your Name"
   avatar   : "/assets/images/bio-photo.jpg"
