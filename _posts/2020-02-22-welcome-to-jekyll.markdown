@@ -6,7 +6,7 @@ modified:
 categories: microservices
 comments: true
 header:
-  image: /assets/images/yosemite.jpg
+  image: https://unsplash.com/photos/M6XC789HLe8
 date: 2020-01-23T18:27:37-05:00
 ---
 
