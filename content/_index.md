@@ -1,5 +1,5 @@
 +++
-title = "Joachim Prinzbach"
+title = "PREVIEW"
 tagline = "Tech. Arch. Enabling."
 +++
 
