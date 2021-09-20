@@ -3,7 +3,14 @@ title = "Joachim Prinzbach"
 tagline = "Tech. Arch. Enabling."
 +++
 
-My name is Joachim, I am a software engineer working 🔭 at [Baloise Group][baloise] with a passion 🌱 for Software Architecture, DevOps, API's, modern web technology and sharing my knowledge.
+I am Joachim, a software engineer working at [Baloise Group][baloise].
+
+I am passionate about
+- Software and Enterprise Architecture 
+- The evolution of organisations and leadership
+- DevOps and cloud
+- Domain Driven Design and API's
+- web technology and frontend architecture
 
 I formerly worked for [Zühlke][zuehlke], [Badenova][badenova] and [Endress+Hauser][endress-hauser].
 I have a Bachelor's degree in Business Information Systems from [Furtwangen University][hfu], with a semester abroad in Perth, Western Australia at [Murdoch University][murdoch].
