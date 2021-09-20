@@ -1,0 +1,45 @@
+baseURL: "https://joachimprinzbach.github.io"
+languageCode: en-US
+title: Joachim Prinzbach
+theme: hugo-split-theme
+disableKinds:
+  - section
+  - taxonomy
+  - taxonomyTerm
+  - RSS
+  - sitemap
+relativeURLs: true
+uglyURLs: true
+googleAnalytics: "G-RRLLVB3RWV"
+publishDir: "docs"
+copyright: "&copy;2021 Joachim Prinzbach"
+params:
+  author: Jenny Jones
+  description: Tech. Arch. Enabling.
+  shareImage: images/web.jpg
+  twitterHandle: johaaachim
+  favicon: images/favicon.png
+  visual:
+    image:
+      enable: true
+      file: images/web.jpg
+      position: center center
+    video:
+      enable: false
+      mute: true
+      file: videos/background.mp4
+  links:
+    - list1:
+        heading: Connect
+        link:
+          - text: Twitter
+            url: "https://twitter.com/johaaachim"
+          - text: LinkedIn
+            url: "https://www.linkedin.com/in/joachimprinzbach/"
+          - text: Newsletter
+            url: "#"
+    - list2:
+        heading: Work
+        link:
+          - text: GitHub
+            url: "https://github.com/joachimprinzbach"
