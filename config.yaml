@@ -36,8 +36,6 @@ params:
             url: "https://twitter.com/johaaachim"
           - text: LinkedIn
             url: "https://www.linkedin.com/in/joachimprinzbach/"
-          - text: Newsletter
-            url: "#"
     - list2:
         heading: Work
         link:
